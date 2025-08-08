@@ -3,7 +3,8 @@ repository for QA Stepik course solutions
 
 ## ⚠️ Academic Integrity Notice
 <Div Style="Border-Left: 4px Solid #Ff0000; Padding-Left: 12px; Margin: 16px 0;">
-**This Repository Contains Educational Solutions And Materials.**\n
+This Repository Contains Educational Solutions And Materials.
+
 
 🔹 **You Are Free To:**  
 - Use This Code As A **Reference** For Learning.  
