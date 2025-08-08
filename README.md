@@ -1,16 +1,12 @@
-# QA_STEPIK
-repository for QA Stepik course solutions
-
 ## ⚠️ Academic Integrity Notice
-<Div Style="Border-Left: 4px Solid #Ff0000; Padding-Left: 12px; Margin: 16px 0;">
-This Repository Contains Educational Solutions And Materials.
+<div style="border-left: 4px solid #ff0000; padding-left: 12px; margin: 16px 0;">
+This repository contains educational solutions and materials.<br><br>
 
+🔹 **You are free to:**  
+- Use this code as a **reference** for learning.  
+- Inspect implementations to **understand concepts**.  
 
-🔹 **You Are Free To:**  
-- Use This Code As A **Reference** For Learning.  
-- Inspect Implementations To **Understand Concepts**.  
-
-🔹 **Please Respect:**  
-- The **Learning Process** — Copying Solutions Without Understanding Harms Your Own Growth.  
-- The **Spirit Of Education** — These Materials Exist To Help, Not Replace Your Effort.  
-</Div>
+🔹 **Please respect:**  
+- The **learning process** — copying solutions without understanding harms your own growth.  
+- The **spirit of education** — these materials exist to help, not replace your effort.  
+</div>
